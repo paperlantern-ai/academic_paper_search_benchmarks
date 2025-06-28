@@ -1,0 +1,2002 @@
+{
+  "query_0": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "Compare different architectural frameworks for large language model agents, focusing on their respective strengths in complex task execution. What are the trade-offs between single-LLM and multi-agent systems for real-world problem-solving, particularly concerning efficiency and robustness?"
+  },
+  "query_1": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How to implement online learning for non-Markovian reward functions in reinforcement learning, especially when the reward signal is sparse or delayed? What are the practical considerations for integrating weak human preference supervision or dynamic human feedback into deep RL systems to improve sample efficiency and address reward misspecification in high-dimensional state spaces?"
+  },
+  "query_2": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "retraining-free gradient-based LLM pruning"
+  },
+  "query_3": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "What are the main challenges in question answering systems that combine different types of information, like text, tables, and images? How do researchers define and approach 'complex' questions in this field?"
+  },
+  "query_4": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "mitigating high inflow problem in neural text generation repetition"
+  },
+  "query_5": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "evaluating retrieval-augmented language models for knowledge-intensive tasks and real-world applications"
+  },
+  "query_6": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "real-time implicit neural scene representation with dynamic pixel sampling"
+  },
+  "query_7": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How to implement recursive feature pyramid with switchable atrous convolution for object detection? What are the practical considerations for integrating a self-calibrated illumination module into existing low-light enhancement networks, especially regarding computational cost and unsupervised training loss design? I'm also interested in the specific architecture of the dense nested interactive module (DNIM) and cascaded channel and spatial attention module (CSAM) for infrared small target detection."
+  },
+  "query_8": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "efficient multi-scale vision transformer architectures for dense prediction tasks"
+  },
+  "query_9": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "comparing attention mechanisms in multimodal transformers for visual question answering"
+  },
+  "query_10": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "automatic mask generation for localized image editing in diffusion models"
+  },
+  "query_11": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "How to adapt pre-trained vision-language models like CLIP for specific tasks?"
+  },
+  "query_12": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "3D generation Janus problem mitigation"
+  },
+  "query_13": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "fundamental methods and types of recommender systems for beginners"
+  },
+  "query_14": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Multi-sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "What are the current frontiers and open challenges in graph representation learning and graph neural network architectures? I am particularly interested in advancements beyond traditional Euclidean assumptions, including methods for complex graph structures and higher-order interactions. How are researchers addressing issues of expressivity, scalability, and interpretability in novel graph learning paradigms?"
+  },
+  "query_15": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "challenges and limitations of graph neural networks in real-world applications"
+  },
+  "query_16": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "dynamic graph learning spatio-temporal forecasting challenges"
+  },
+  "query_17": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "machine learning optimization methods"
+  },
+  "query_18": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "impact of activation function choice on OOD detection performance"
+  },
+  "query_19": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "federated normalized versus matched averaging"
+  },
+  "query_20": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "What are the current challenges and emerging research directions in ensuring AI system safety and trustworthiness?"
+  },
+  "query_21": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the current limitations and challenges in large language model reasoning capabilities?"
+  },
+  "query_22": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "LLM agents in interactive environments"
+  },
+  "query_23": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "When implementing information extraction systems, what are the key considerations for choosing between different architectural approaches? I'm particularly interested in understanding the trade-offs between pipeline, joint, and generative models, especially concerning their performance on complex document structures and efficiency for real-world applications."
+  },
+  "query_24": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "improving real-time speech translation latency"
+  },
+  "query_25": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "practical challenges of prompting large language models"
+  },
+  "query_26": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the challenges in query-based meeting summarization?"
+  },
+  "query_27": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "How do multilingual machine translation models technically handle different languages during training?"
+  },
+  "query_28": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "What are the different approaches for large language models to learn and utilize external tools?"
+  },
+  "query_29": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "What are emerging research directions for improving large language model efficiency and capabilities?"
+  },
+  "query_30": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "How do specific attention mask designs influence compositional generalization in Transformer Grammars?"
+  },
+  "query_31": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "I'm trying to understand the fundamental limitations and ongoing challenges in the design and application of Transformer architectures. What are the primary areas where current Transformer models fall short, particularly concerning efficiency, interpretability, or handling complex linguistic phenomena? I'm interested in research that explores architectural modifications or novel mechanisms to overcome these inherent issues."
+  },
+  "query_32": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "how to evaluate LLM factuality methods?"
+  },
+  "query_33": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How do decoding by contrasting layers or chain-of-verification methods reduce LLM hallucinations?"
+  },
+  "query_34": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "How do BEV perception models address occlusion and sparse data from camera-only inputs?"
+  },
+  "query_35": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "I'm interested in understanding the comparative strengths and weaknesses of different generative model architectures for high-fidelity image synthesis. What are the key considerations when systematically evaluating approaches for controllable image generation and manipulation, especially concerning aspects like disentanglement, inversion, and computational efficiency?"
+  },
+  "query_36": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "What are the main differences between open-vocabulary and few-shot semantic segmentation methods?"
+  },
+  "query_37": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How do different image restoration methods compare for real-world scene text super-resolution?"
+  },
+  "query_38": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "comparing transformer and CNN for medical image segmentation"
+  },
+  "query_39": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How do current human motion prediction models perform in multi-person or extreme interaction scenarios?"
+  },
+  "query_40": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "I'm looking for methods to improve semantic segmentation accuracy, especially when I have limited labeled data. What are some effective strategies for leveraging unlabeled or weakly labeled images to get better pixel-level predictions? I'm interested in practical approaches that can reduce the need for extensive manual annotation."
+  },
+  "query_41": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How can we improve bird's-eye-view perception and prediction for autonomous driving in occluded scenes?"
+  },
+  "query_42": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "What are the specific technical strategies employed by real-time neural SLAM systems, particularly those using implicit scene representations like MLPs or hash grids, to manage continuous online optimization and prevent error accumulation? I'm interested in papers detailing the algorithmic parameters or data structures that enable efficient memory usage and robust performance during live operation, especially concerning the trade-offs between reconstruction fidelity and computational overhead."
+  },
+  "query_43": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "How can I create animatable 3D models of people wearing clothes from images or scans?"
+  },
+  "query_44": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the latest methods for improving Vision Transformer performance and efficiency?"
+  },
+  "query_45": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "how to fix classifier imbalance in few-shot detection?"
+  },
+  "query_46": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How can querybank normalization mitigate the hubness problem in cross-modal retrieval models?"
+  },
+  "query_47": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "Are there any comparative studies on video anomaly detection that specifically evaluate the trade-offs between memory-augmented autoencoder reconstruction approaches and transformer-based future frame prediction methods? I'm interested in how these different architectural choices impact the detection of subtle temporal inconsistencies or the handling of diverse normal patterns in complex scenes."
+  },
+  "query_48": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How to efficiently reduce redundant visual tokens in video transformers for retrieval?"
+  },
+  "query_49": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the main challenges in achieving robust and generalizable monocular depth estimation?"
+  },
+  "query_50": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How do different temporal modeling approaches compare for analyzing human behavior in videos?"
+  },
+  "query_51": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "What are the remaining challenges for multimodal large language models in real-world applications?"
+  },
+  "query_52": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "I'm trying to understand the current landscape of sequential recommendation systems. What are the most effective strategies for learning robust user and item representations, especially when dealing with issues like data sparsity or cold-start scenarios? I'm particularly interested in approaches that leverage self-supervised learning or advanced data augmentation techniques."
+  },
+  "query_53": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How can contextual bandit algorithms be applied to improve personalized recommendations in large-scale systems?"
+  },
+  "query_54": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "I'm trying to systematically evaluate different graph encoding methods for large language models. What are the specific technical factors, such as graph structure characteristics or the nature of the graph task itself, that lead to significant performance variations when encoding graph-structured data as text for LLMs? Are there particular experimental conditions or algorithmic parameters that researchers have identified as critical for boosting performance in these scenarios?"
+  },
+  "query_55": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "low-rank adaptation matrix initialization strategies"
+  },
+  "query_56": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "how to combine multiple fine-tuned models"
+  },
+  "query_57": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How can large language models help train embodied agents for complex, real-world tasks?"
+  },
+  "query_58": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "What are the current challenges in mitigating hallucinated value errors in Dyna-style model-based reinforcement learning?"
+  },
+  "query_59": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "I'm trying to understand the specific technical challenges in evaluating LLM safety and alignment. What are the known issues with evaluation metrics, particularly regarding biases like output length, and how do prompt templates or in-context learning demonstrations affect the reliability of these safety assessments?"
+  },
+  "query_60": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "I'm trying to get a comprehensive understanding of the different methods and approaches used to implement differential privacy in machine learning. What are the various techniques for private model training, including different types of privacy guarantees and optimization algorithms? I'm also interested in how these methods are applied across different domains like natural language processing and computer vision."
+  },
+  "query_61": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "What are the different methodological approaches for improving sampling speed in diffusion models?"
+  },
+  "query_62": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "What are the main strategies for improving the robustness of deep learning models?"
+  },
+  "query_63": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "What are the current limitations and open research problems in graph neural networks?"
+  },
+  "query_64": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "pre-trained image encoder for RL"
+  },
+  "query_65": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "how to learn graph structure for GNNs?"
+  },
+  "query_66": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "I'm new to deep learning and want to understand how researchers are making model training more efficient. What are the core methods for reducing the amount of labeled data needed, and how do they work in practice?"
+  },
+  "query_67": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How can we gain better insights into the internal workings of deep neural networks to ensure their reliability and trustworthiness in practical applications? What methods or techniques are available to make these models more transparent and explainable, especially when deploying them in critical systems?"
+  },
+  "query_68": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "Bernstein-type concentration linear mixture MDPs"
+  },
+  "query_69": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "emergent communication in multi-agent RL"
+  },
+  "query_70": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "What are the known issues with explanation stability and robustness for local linear XAI methods like LIME and SHAP? I'm looking for papers that propose specific quantitative metrics or frameworks, such as LEAF, to evaluate these technical shortcomings and guide the development of improved explainable techniques. Are there specific parameter sensitivities or implementation divergences from theoretical properties that impact their practical utility?"
+  },
+  "query_71": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "comparing planning strategies in model-based reinforcement learning for complex tasks"
+  },
+  "query_72": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the specific architectural modifications or loss functions proposed for handling nested or discontinuous named entity recognition in span-based or sequence-to-set frameworks? I am particularly interested in methods that address computational complexity or leverage specific pre-trained model adaptations beyond standard fine-tuning, such as dynamic thresholding loss or bipartite matching for entity set prediction."
+  },
+  "query_73": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "methods for evaluating and improving natural language processing model robustness and data quality"
+  },
+  "query_74": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "synthetic QA data generation transformer encoder-decoder filtering score maximum likelihood estimation"
+  },
+  "query_75": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "optimizing LLM alignment with f-divergence minimization or token-level direct preference optimization"
+  },
+  "query_76": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "challenges multilingual language models"
+  },
+  "query_77": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "attention heads multi-step reasoning"
+  },
+  "query_78": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "How do AI models process and generate text from various data formats like images and tables?"
+  },
+  "query_79": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How can large language models be effectively integrated with knowledge graphs to improve factual accuracy and reduce hallucination in real-world applications? I am looking for methods that leverage structured knowledge for tasks like question answering or information extraction, especially those addressing challenges with dynamic or domain-specific knowledge. What are practical frameworks for combining LLMs and KGs to enhance reasoning and ensure up-to-date information?"
+  },
+  "query_80": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "advanced reasoning techniques for large language models beyond chain-of-thought prompting"
+  },
+  "query_81": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "cylindrical partition asymmetrical 3D convolution networks LiDAR segmentation outdoor point cloud"
+  },
+  "query_82": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "6D pose estimation novel objects"
+  },
+  "query_83": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "unsupervised person re-identification methods and domain adaptation techniques"
+  },
+  "query_84": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "video large language models temporal reasoning"
+  },
+  "query_85": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "dynamic scene reconstruction and novel view synthesis using neural rendering methods"
+  },
+  "query_86": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "domain generalization techniques comparison"
+  },
+  "query_87": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "channel-split spatial feature transform layers OR pivotal tuning inversion OR semantic instance-wise module OR dynamic sparse attention transformer OR hierarchical representation face encoder"
+  },
+  "query_88": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "memory-efficient continual learning methods for few-shot image classification"
+  },
+  "query_89": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "Practical image restoration techniques for real-world degradations and diverse lighting conditions."
+  },
+  "query_90": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the current research trends and challenges in object detection, encompassing advancements in training strategies like semi-supervised, weakly supervised, and self-supervised learning? How do different label assignment techniques and architectural designs contribute to improving detection performance and addressing issues like data scarcity or open-world generalization?"
+  },
+  "query_91": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "comparing methods for improving model robustness and generalization through data augmentation"
+  },
+  "query_92": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "compare optimal transport assignment with probabilistic anchor assignment for object detection"
+  },
+  "query_93": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "methods for adapting pre-trained models to new domains without source data access"
+  },
+  "query_94": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "fundamental methods for text-to-image generation, evaluation, and common challenges"
+  },
+  "query_95": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How are hypergraph neural networks, especially when combined with self-supervised learning, applied to address complex interaction modeling in multi-behavior or group recommendation systems? I am interested in studies that evaluate their effectiveness in capturing high-order user-item or intra-group relationships."
+  },
+  "query_96": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "What are the comparative advantages and disadvantages of dense retrieval versus generative retrieval paradigms for large-scale information access? I am particularly interested in studies that analyze the trade-offs in terms of scalability, training efficiency, and zero-shot generalization across diverse corpora. Are there emerging hybrid or unified architectures that effectively combine the strengths of these different representation learning strategies?"
+  },
+  "query_97": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "domain generalization and adaptation methods"
+  },
+  "query_98": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "What are the current research opportunities in improving adversarial robustness of deep learning models? I am particularly interested in novel data augmentation strategies, efficient training methods, or techniques that address the robustness-accuracy tradeoff and catastrophic overfitting."
+  },
+  "query_99": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "rank-1 factors neural networks"
+  },
+  "query_100": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "how does temperature parameter affect contrastive loss in self-supervised learning?"
+  },
+  "query_101": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "fairness mitigation graph data"
+  },
+  "query_102": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "practical challenges and solutions for deploying diffusion models in real-world applications"
+  },
+  "query_103": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "evaluating generative verifiers next-token prediction objective for mathematical reasoning"
+  },
+  "query_104": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "novel uncertainty quantification methods for image-to-image regression or tabular data"
+  },
+  "query_105": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "What are the main types of adversarial attacks on machine learning models? How do researchers typically defend against these vulnerabilities? I'm looking for an overview of common approaches to improve model security and robustness."
+  },
+  "query_106": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the current algorithmic approaches and methodologies for generating and evaluating counterfactual explanations in machine learning? I am particularly interested in techniques for actionable recourse, including methods for ensuring robustness, plausibility, and interpretability. How do different algorithms compare in terms of computational efficiency and practical utility across various data types and model architectures?"
+  },
+  "query_107": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "transformer attention mechanism limitations"
+  },
+  "query_108": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "learning with limited labeled data"
+  },
+  "query_109": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the key challenges and limitations in applying reinforcement learning for real-world recommender systems, autonomous driving, or healthcare applications? Specifically, I am interested in issues related to reward design, ensuring safety and fairness, achieving robustness, and improving interpretability or explainability in these contexts."
+  },
+  "query_110": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Few words",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "imitation learning generalization transfer"
+  },
+  "query_111": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "retrieval-augmented generation versus in-context learning"
+  },
+  "query_112": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Multi-sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "What are the practical limitations of current robustness evaluation toolkits for NLP models, specifically regarding their ability to detect subtle dataset artifacts or distinguish between different types of out-of-distribution shifts? I am looking for methods that go beyond simple adversarial attacks to identify nuanced biases or misalignments in training data that impact model generalization."
+  },
+  "query_113": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "Levenshtein belief spans inference efficiency"
+  },
+  "query_114": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Multi-sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the performance implications of multi-query attention mechanisms in large language models with context lengths exceeding 8K tokens? Specifically, I am interested in evaluations that compare inference efficiency and generation quality across diverse programming language tasks, particularly for models trained on permissively licensed code corpora."
+  },
+  "query_115": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "Challenges and limitations in large language model evaluation and assessment methodologies"
+  },
+  "query_116": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "unsolved challenges in long-range temporal modeling for video action localization"
+  },
+  "query_117": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "debiasing image classification real-world deployment"
+  },
+  "query_118": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "low-bit quantization challenges for efficient deep learning model deployment on edge devices"
+  },
+  "query_119": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "Compare single-stride voxel-based versus point-based 3D object detectors for small object detection performance."
+  },
+  "query_120": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "systematic evaluation of text-to-image generative models using quantitative metrics"
+  },
+  "query_121": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "comparing transformer-based and clustering methods for 3D point cloud instance segmentation"
+  },
+  "query_122": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "What are the current limitations in achieving precise character-level text rendering and typographic fidelity within high-resolution text-to-image diffusion models? Specifically, what architectural modifications or training strategies are being explored to overcome issues like text coherence, legibility, and artifact accumulation when generating multilingual visual text, beyond simple bounding box conditioning?"
+  },
+  "query_123": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "systematic evaluation of graph neural networks for session-based recommendation"
+  },
+  "query_124": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "Fisher SAM adaptive sharpness Euclidean ball"
+  },
+  "query_125": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "comparing computational efficiency of hyperbolic distance metrics for graph embeddings"
+  },
+  "query_126": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "What are the most data-efficient post-hoc calibration methods for deep neural networks, particularly those that minimize computational overhead during inference? I am looking for approaches that balance calibration performance with practical deployment constraints on large-scale models."
+  },
+  "query_127": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "Comparative analysis of deep learning architectures for long-term time series forecasting efficiency and accuracy."
+  },
+  "query_128": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "comparing variational autoencoders and generative adversarial networks for image synthesis"
+  },
+  "query_129": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Multi-sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "Compare Mixture-of-Experts routing strategies beyond top-k, specifically examining their impact on expert load imbalance and token dropping rates. What are the memory and computational overheads of dynamic expert allocation mechanisms versus fixed routing in large language models?"
+  },
+  "query_130": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Few words",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "non-sampling knowledge graph embedding loss"
+  },
+  "query_131": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "end-to-end ASR implementation challenges"
+  },
+  "query_132": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "What are the fundamental considerations for deploying large language models in real-world applications? I am looking for papers that discuss the core challenges and best practices related to ensuring safety, managing biases, and aligning LLM behavior with human values and societal norms. This includes understanding how LLMs reflect opinions, exhibit social intelligence, and the implications for human-AI interaction."
+  },
+  "query_133": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Few words",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "LLM safety and security challenges"
+  },
+  "query_134": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "What are the optimal vocabulary size and tokenization strategies for pre-training a BERT-based model on a morphologically rich, low-resource language like Turkish or Arabic? I need to understand the trade-offs between model performance, inference speed, and memory footprint when selecting tokenizer granularity and vocabulary parameters for such languages."
+  },
+  "query_135": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "Comparative analysis of knowledge graph completion methods for identifying research gaps"
+  },
+  "query_136": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "foundational methods for 3D object detection using LiDAR, camera, and sensor fusion in autonomous driving"
+  },
+  "query_137": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Few words",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "remote sensing land cover mapping"
+  },
+  "query_138": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "deep learning model robustness and generalization under challenging data conditions survey"
+  },
+  "query_139": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "foundational concepts of transformer architectures for general computer vision tasks"
+  },
+  "query_140": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "methods for 3D reconstruction of human hands and objects during interaction"
+  },
+  "query_141": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "challenges in instance segmentation with highly overlapping objects or fine details"
+  },
+  "query_142": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "What are the fundamental methods for processing 3D point clouds? I'm looking for introductory papers on core techniques like feature extraction, classification, and basic neural network architectures for point cloud data."
+  },
+  "query_143": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "challenges and limitations of large language models in recommender systems"
+  },
+  "query_144": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "contrastive loss reinforcement learning"
+  },
+  "query_145": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "practical applications of contrastive learning for robust representation learning"
+  },
+  "query_146": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How is reinforcement learning formulated as a sequence modeling problem? What are the foundational approaches that leverage sequence models, especially Transformer architectures, for decision-making and policy learning in RL?"
+  },
+  "query_147": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "What are the fundamental concepts of optimization and implicit bias in deep learning?"
+  },
+  "query_148": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "What are the core techniques for training language models on math problems?"
+  },
+  "query_149": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How to implement graph contrastive learning for real-world applications? What are the best practices for data augmentation and negative sampling in graph self-supervised learning? I need to understand the practical challenges and solutions for applying these techniques to various graph-structured datasets."
+  },
+  "query_150": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How to implement reinforcement learning with tree search for LLM mathematical reasoning?"
+  },
+  "query_151": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How to implement multi-agent coordination strategies in cooperative AI systems?"
+  },
+  "query_152": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the recommended hyperparameter settings and data preprocessing steps for implementing recursive binding in Fourier Holographic Reduced Representations for sequence similarity tasks? I'm looking for practical guidance on how to configure the dimensionality and binding operations to achieve optimal performance in hyperdimensional computing applications."
+  },
+  "query_153": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "adapt LLM to new language steps"
+  },
+  "query_154": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "What are effective strategies for developing natural language processing systems for low-resource languages? I am looking for methodological guidance on how to approach data collection, model training, and evaluation when working with languages that have limited existing linguistic resources."
+  },
+  "query_155": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How can researchers effectively adapt and fine-tune pre-trained language models for diverse natural language processing tasks? What are the practical considerations and common challenges when applying these models to new domains or specific downstream applications, and how can these be addressed for optimal performance?"
+  },
+  "query_156": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How do researchers implement iterative nullspace projection (INLP) for debiasing contextualized embeddings, specifically regarding the choice of linear classifier and projection frequency? What are the practical considerations for applying counterfactual data augmentation (CDA) or adversarial training to mitigate gender bias in pre-trained language models, including optimal perturbation strategies or adversarial loss functions?"
+  },
+  "query_157": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "How to implement efficient transformer architectures for long sequence processing and extended context windows?"
+  },
+  "query_158": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How to apply reference-free evaluation metrics for open-ended text generation?"
+  },
+  "query_159": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How to deploy and integrate large language models for practical real-world applications?"
+  },
+  "query_160": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "How to improve prompt performance for language models in few-shot learning?"
+  },
+  "query_161": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "how to correct factual errors in summaries"
+  },
+  "query_162": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "What are the specific hyperparameter settings and data preprocessing steps required to achieve robust accuracy improvements when applying adversarial training with a fast gradient projection method (FGPM) against synonym substitution attacks? I'm particularly interested in the practical considerations for integrating logit pairing or similar regularization techniques to enhance transferability defense, beyond just attack success rate metrics."
+  },
+  "query_163": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "how to implement fine-grained emotion detection for empathetic chatbot responses"
+  },
+  "query_164": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How to implement diffusion models for few-shot anomaly image generation?"
+  },
+  "query_165": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "how to train multimodal large language models"
+  },
+  "query_166": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "how to implement video object segmentation methods for real-world applications"
+  },
+  "query_167": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How to implement and compare transformer-based versus traditional multi-object tracking methods for occlusion handling?"
+  },
+  "query_168": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "How do I set up a graph convolutional network for 3D human pose estimation, specifically regarding skeleton graph construction and defining node features? What are the common challenges in preparing 2D pose data as input for these models, and how are bone lengths or joint dependencies typically handled in the network architecture?"
+  },
+  "query_169": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How to optimize dynamic code cloud positions for implicit function detail reconstruction?"
+  },
+  "query_170": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "how to compare multimodal representations"
+  },
+  "query_171": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "How to effectively train generative adversarial networks with very limited image data?"
+  },
+  "query_172": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "comparing 3D scene reconstruction methods"
+  },
+  "query_173": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How to implement multi-distance interpolation for time-aware voxel features in dynamic radiance fields?"
+  },
+  "query_174": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "How to implement unsupervised person re-identification models across diverse datasets?"
+  },
+  "query_175": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How to implement NeRF for 3D scene editing with object-level control, specifically for adding or moving furniture in cluttered indoor environments? What are the practical considerations for integrating semantic segmentation and handling occluded regions during training for such editable radiance fields?"
+  },
+  "query_176": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How to generate consistent multi-view images from a single input using diffusion models?"
+  },
+  "query_177": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "implementing multimodal large language models"
+  },
+  "query_178": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How to generate high-quality 3D models from text or images using diffusion techniques?"
+  },
+  "query_179": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How to implement dual masking strategy for efficient video masked autoencoder pre-training?"
+  },
+  "query_180": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "how to implement and compare different face recognition bias mitigation strategies"
+  },
+  "query_181": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "how to fuse time and frequency domain features for 3D human pose estimation"
+  },
+  "query_182": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "how to debias recommender systems"
+  },
+  "query_183": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "How to mitigate plasticity loss in deep reinforcement learning training with specific regularization techniques?"
+  },
+  "query_184": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "how to implement neural network pruning"
+  },
+  "query_185": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "How do I implement conservative Q-learning (CQL) for offline reinforcement learning? What are the key algorithmic parameters and practical considerations for integrating CQL into existing deep Q-learning or actor-critic frameworks to mitigate overestimation bias from distributional shift?"
+  },
+  "query_186": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "How can large language models be effectively adapted for time series forecasting and tabular data generation or analysis? I am seeking practical implementation guidance on techniques for modality alignment, numerical data representation, and strategies to improve performance in these non-textual domains."
+  },
+  "query_187": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "How to implement probabilistic concept bottleneck models with uncertainty quantification for ambiguous concepts?"
+  },
+  "query_188": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "how to implement symmetry-preserving deep learning architectures for physical systems"
+  },
+  "query_189": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "implement federated learning feature shift batch normalization"
+  },
+  "query_190": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "implement evidential fusion for multi-view classification"
+  },
+  "query_191": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How to select Adam beta1 and beta2 hyperparameters for guaranteed convergence?"
+  },
+  "query_192": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How to implement high update-to-data ratio for sample-efficient deep reinforcement learning?"
+  },
+  "query_193": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "How to implement deep learning models for time series and spatio-temporal data analysis?"
+  },
+  "query_194": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "How do I set up and run a basic federated learning experiment? I'm looking for practical steps and code examples to get started with a simple FL model, perhaps for image classification or a similar task. What are the fundamental components and workflow for a federated learning simulation?"
+  },
+  "query_195": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How to systematically evaluate the impact of neural network architectural choices on model performance and robustness? I am looking for methodological guidance on comparing different network depths, widths, activation functions, and loss functions across various tasks to understand their practical implications."
+  },
+  "query_196": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "implement exploration-exploitation policy gradient methods"
+  },
+  "query_197": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "how to define neural architecture search space"
+  },
+  "query_198": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "When implementing sparse autoencoders for resolving polysemanticity in transformer activations, what are the optimal configurations for the L1 penalty or k-sparsity to balance reconstruction fidelity and feature interpretability? Are there specific training schedules or architectural modifications, like Gated SAEs or JumpReLU, that consistently improve feature disentanglement and reduce dead latents across different model scales and activation types?"
+  },
+  "query_199": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How to implement multi-agent reinforcement learning with heterogeneous social value orientation (SVO) for emergent prosociality in sequential social dilemmas? Specifically, what are the optimal reward remapping functions and exploration strategies for agents with diverse SVO profiles to achieve stable cooperation in mixed-motive games, considering the trade-off between individual utility and collective welfare?"
+  }
+}
