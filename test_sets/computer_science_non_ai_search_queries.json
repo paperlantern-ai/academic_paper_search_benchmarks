@@ -1,0 +1,2002 @@
+{
+  "query_0": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "What are the comparative performance and energy efficiency benefits of processing-in-memory (PIM) architectures versus near-data processing (NDP) or specialized accelerators for memory-bound workloads? I am particularly interested in their application to sparse linear algebra, graph analytics, and stencil computations, considering factors like data movement, synchronization overheads, and scalability across different memory technologies (e.g., HBM, MRAM, CXL)."
+  },
+  "query_1": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How to optimize communication cost and utility for high-dimensional mean or frequency estimation under local differential privacy? What are the practical considerations for mitigating poisoning attacks in LDP protocols for streaming or key-value data, especially concerning specific randomization mechanisms like Staircase Randomized Response or ProjectiveGeometryResponse?"
+  },
+  "query_2": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "LLM jailbreak single query"
+  },
+  "query_3": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "What are the main approaches to ensuring accountability in artificial intelligence systems? I'm looking for an overview of AI governance mechanisms and how they address ethical concerns in algorithmic decision-making."
+  },
+  "query_4": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "unsolved challenges large language models complex SQL logical operator composition"
+  },
+  "query_5": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "systematic evaluation of scholarly knowledge graphs for information retrieval and analysis"
+  },
+  "query_6": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "practical algorithms for computing twin-width contraction sequences or certificates"
+  },
+  "query_7": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "What are the practical considerations for real-time performance and memory footprint optimization in 3D Gaussian Splatting or Monte Carlo path tracing implementations? I'm looking for papers detailing specific algorithmic modifications, such as BVH acceleration, kernel prediction networks, or surface-aligned regularization, that improve efficiency and scalability for dynamic scenes or high-quality mesh extraction. How do these methods address challenges like noise reduction, handling complex light transport, or integrating with existing graphics pipelines?"
+  },
+  "query_8": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "virtual reality interfaces for human-in-the-loop control of adaptive robotic systems"
+  },
+  "query_9": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "dynamic information exchange between AMP and outer tree decoders in URA CCS"
+  },
+  "query_10": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "performance comparison of beyond diagonal RIS architectures under spatially correlated channels"
+  },
+  "query_11": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "How are monads and distributive laws used to combine computational effects in programming?"
+  },
+  "query_12": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "SNN quantization hardware implementation"
+  },
+  "query_13": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "fundamental methods for integrating artificial intelligence in next-generation wireless networks"
+  },
+  "query_14": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Multi-sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "What are the fundamental challenges and recent advancements in achieving robust and scalable Simultaneous Localization and Mapping (SLAM) for autonomous systems? I am particularly interested in approaches that address long-term operation, multi-agent collaboration, and performance in perceptually degraded or dynamic environments. How do different sensor modalities and data fusion strategies contribute to global map consistency and efficient loop closure detection in these complex scenarios?"
+  },
+  "query_15": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the key challenges and limitations in current robotic systems and their applications?"
+  },
+  "query_16": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "compact compliant tactile sensor integration challenges"
+  },
+  "query_17": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "algorithms real algebraic geometry polynomial systems"
+  },
+  "query_18": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "practical challenges of code generation model evaluation with noisy real-world data"
+  },
+  "query_19": {
+    "settings": {
+      "query_type": "Niche Areas",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "evolutionary fuzzing energy mechanism"
+  },
+  "query_20": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "What are the current trends and challenges in hardware acceleration for efficient AI processing?"
+  },
+  "query_21": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the current research challenges in data-driven reduced-order modeling and uncertainty quantification?"
+  },
+  "query_22": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "computing zigzag persistence simplicial complexes"
+  },
+  "query_23": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "What are the practical considerations and challenges when implementing differential privacy in real-world systems? I'm looking for insights into the trade-offs between privacy and utility, and common issues like floating-point precision or communication overhead that affect deployment."
+  },
+  "query_24": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "tools for fine-grained vulnerability explanation"
+  },
+  "query_25": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "practical challenges for machine learning security"
+  },
+  "query_26": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "intellectual property protection in federated unlearning"
+  },
+  "query_27": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "How do researchers typically set up and measure timing differences for CPU side-channel attacks?"
+  },
+  "query_28": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "What are the most effective automated methods for detecting and mitigating AI-generated misinformation on social media platforms?"
+  },
+  "query_29": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "What are the emerging challenges and ethical considerations for large language models in real-world applications?"
+  },
+  "query_30": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the theoretical error bounds and practical limitations of RaBitQ-based vector quantization methods?"
+  },
+  "query_31": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "I'm trying to understand the fundamental limitations and trade-offs in achieving Byzantine fault tolerance across different distributed system models. What are the key challenges in balancing consistency, availability, and performance when dealing with malicious failures and varying network synchrony assumptions? I'm particularly interested in how different consensus protocols address these issues and what remains as open problems in the field."
+  },
+  "query_32": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "how to optimize edge computing for low latency applications?"
+  },
+  "query_33": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How do different online graph algorithms define and handle prediction error with outliers?"
+  },
+  "query_34": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the challenges in achieving FPT for exact matching on graphs with bounded independence number?"
+  },
+  "query_35": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "I'm interested in understanding the trade-offs and optimality of different graph spanner and hopset constructions. What are the current state-of-the-art results regarding their size, stretch, and fault-tolerance properties? I'm particularly looking for papers that systematically compare these structures across various graph classes or under different failure models."
+  },
+  "query_36": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "What are the different algorithmic approaches for learning automata from examples?"
+  },
+  "query_37": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How do Gaussian Splatting and NeRF compare for real-time immersive VR/AR rendering, considering perceptual quality and efficiency?"
+  },
+  "query_38": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "comparing EFX and maximin share fairness"
+  },
+  "query_39": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "What are the current limitations of automated data storytelling tools for specialized domains like sports analytics?"
+  },
+  "query_40": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "As a practitioner, I'm looking for practical guidance on how to integrate responsible AI principles into the development lifecycle. What are the key considerations for designing AI systems ethically, ensuring fairness, and effectively managing risks? I'm particularly interested in methods for involving diverse stakeholders and documenting AI systems to promote transparency and accountability."
+  },
+  "query_41": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "What are the design considerations for AI systems that enhance human creative ideation?"
+  },
+  "query_42": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "What are the latest construction methods for optimal binary LCD codes derived from simplicial complexes, specifically those achieving Griesmer bound optimality? I'm interested in the explicit determination of weight distributions for these codes and any reported improvements on minimum weight bounds for lengths up to 40."
+  },
+  "query_43": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "What are the main differences between various decoding algorithms for polar codes in 5G?"
+  },
+  "query_44": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the current methods for constructing maximum sum-rank distance codes?"
+  },
+  "query_45": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "near-field channel estimation polar domain sparsity"
+  },
+  "query_46": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "What is the optimal step size for movable antenna motion drivers to balance performance and complexity?"
+  },
+  "query_47": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "Are there any studies that directly compare the decidability results for quantified announcement logics, specifically APAL or CAL, when considering different underlying semiring semantics? I'm interested in how the choice of semiring, beyond just the Boolean, might impact the undecidability proofs or introduce new decidable fragments, particularly concerning the number of agents or the nature of the quantification."
+  },
+  "query_48": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How to implement 2D positional encoding for audio-visual target speaker extraction?"
+  },
+  "query_49": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the main challenges in developing biologically plausible artificial neural networks?"
+  },
+  "query_50": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How do different learning paradigms compare for optimizing complex adaptive systems?"
+  },
+  "query_51": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "What are the open challenges for Age of Information in real-time IoT applications?"
+  },
+  "query_52": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "I'm trying to understand the current landscape of computation offloading strategies in mobile edge computing environments. What are the most effective approaches for balancing performance metrics like latency, energy consumption, and resource utilization across different system architectures? I'm particularly interested in solutions that address dynamic network conditions and heterogeneous device capabilities."
+  },
+  "query_53": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How can program synthesis automate repetitive coding tasks from examples or natural language?"
+  },
+  "query_54": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "What are the comparative evaluations of different imitation learning algorithms for bimanual or dexterous manipulation, specifically focusing on their data efficiency with low-cost teleoperation systems and generalization capabilities to novel objects or environments, particularly when trained on limited human demonstrations?"
+  },
+  "query_55": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "tactile real-to-sim image translation"
+  },
+  "query_56": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "how do robots map environments for navigation?"
+  },
+  "query_57": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How can we implement robust, risk-aware autonomous navigation for robots in uncertain off-road environments?"
+  },
+  "query_58": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "What are the current challenges in real-time inequality constraint enforcement for whole-body NMPC?"
+  },
+  "query_59": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "I'm comparing different generalist robot policies. What are the specific technical details regarding how these transformer-based models handle diverse action spaces and sensor modalities, especially when dealing with heterogeneous datasets from multiple robot embodiments? Are there particular tokenization schemes or architectural components designed to unify these varied inputs and outputs for scalable pre-training?"
+  },
+  "query_60": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the primary methods and approaches currently employed for multi-robot coordination and planning? I'm interested in understanding the general strategies used to enable groups of robots to work together effectively, including how they handle communication, task allocation, and navigation in shared environments."
+  },
+  "query_61": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "What are the common approaches for environmental perception in autonomous robotic systems?"
+  },
+  "query_62": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "What are the main approaches for autonomous flight control and trajectory planning for quadrotors?"
+  },
+  "query_63": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "What are the current limitations in developing robust general audio understanding models?"
+  },
+  "query_64": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "multi-resolution discriminator GAN vocoder"
+  },
+  "query_65": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "migrating classical software to quantum systems"
+  },
+  "query_66": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "How do researchers evaluate the functional correctness of code generated by large language models? What are the common methods and benchmarks used to test if the code actually runs and produces the correct output, especially for beginners trying to understand this area?"
+  },
+  "query_67": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "What are the key considerations for integrating large language models into existing software development workflows for code generation? I'm looking for practical guidance on managing model performance, ensuring code quality, and addressing efficiency concerns in real-world applications. How can we effectively evaluate and deploy these models for practical use cases?"
+  },
+  "query_68": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "reinforcement learning misinformation response generation parameters"
+  },
+  "query_69": {
+    "settings": {
+      "query_type": "Natural Language Queries",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "novel graph-based deception detection methods"
+  },
+  "query_70": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "What are the practical limitations and implementation challenges for data transfer mechanisms in commercial processing-in-memory (PIM) systems, specifically regarding CPU-PIM communication overheads and memory mapping functions? I'm looking for papers that detail solutions for improving read/write throughput and energy efficiency for DRAM-PIM data movement, including hardware/software co-design approaches for memory management units or specialized data copy engines."
+  },
+  "query_71": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "dynamic approximation algorithms for geometric set cover with squares or disks"
+  },
+  "query_72": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the specific challenges and limitations of gradient inversion attacks in federated learning when combined with local differential privacy or secure aggregation protocols? I am particularly interested in the impact of techniques like gradient quantization, sparsification, or homomorphic encryption on the efficacy of reconstructing original training data from shared model updates, especially concerning image or sensitive financial datasets. How do these countermeasures affect the trade-off between privacy guarantees and model utility, and what are the computational overheads associated with their implementation in real-world FL systems?"
+  },
+  "query_73": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "machine learning and deep learning approaches for network intrusion detection in IoT"
+  },
+  "query_74": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "compare prompt injection defense mechanisms like structured queries vs preference optimization"
+  },
+  "query_75": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "transformer models for imbalanced multiclass malware classification using API call sequences"
+  },
+  "query_76": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "online harm mitigation challenges"
+  },
+  "query_77": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "algorithmic fairness mitigation techniques"
+  },
+  "query_78": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "What are the fundamental challenges and resource management strategies in serverless computing environments?"
+  },
+  "query_79": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How can I train large language models (LLMs) or deep neural networks (DNNs) efficiently on limited GPU memory or heterogeneous computing clusters? I need solutions for memory optimization, such as offloading to CPU or NVMe, and strategies for distributed training like pipeline or model parallelism to overcome hardware constraints and reduce training costs."
+  },
+  "query_80": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "methods for analyzing research collaboration, publication patterns, and knowledge diffusion in academia"
+  },
+  "query_81": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "implementing dynamic spectral vertex sparsification for electrical flow resistance updates"
+  },
+  "query_82": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "pattern matching on compressed strings"
+  },
+  "query_83": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "What are the emerging trends and challenges in developing sustainable research infrastructure and tools?"
+  },
+  "query_84": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "game theory learning dynamics convergence"
+  },
+  "query_85": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "human-AI collaboration in creative writing and ideation tools"
+  },
+  "query_86": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "LLM human-computer interaction interfaces"
+  },
+  "query_87": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "pixel-based UI element detection OR view hierarchy parsing for mobile automation"
+  },
+  "query_88": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "practical implementation challenges for DNA data storage systems"
+  },
+  "query_89": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How do movable and fluid antenna systems enhance wireless communication performance and network capacity?"
+  },
+  "query_90": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the foundational concepts and key challenges in maintaining information freshness in real-time communication systems? I am particularly interested in survey papers that discuss metrics beyond traditional latency, such as Age of Information (AoI), and explore optimization strategies under resource constraints like energy harvesting or limited bandwidth. How do different system architectures, including IoT, wireless sensor networks, and UAV-assisted communication, impact the design of timely status update mechanisms?"
+  },
+  "query_91": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "comparison of modern channel coding error correction decoding algorithms performance"
+  },
+  "query_92": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "strong call-by-need lambda calculus with explicit substitutions"
+  },
+  "query_93": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "practical challenges and solutions for implementing high-performance scientific computing methods"
+  },
+  "query_94": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "fundamental methods and enabling technologies for 5G wireless communication networks"
+  },
+  "query_95": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "Comparative analysis of reinforcement learning algorithms for dynamic resource allocation in wireless communication networks. I am interested in studies evaluating different machine learning approaches for traffic steering, power control, or routing optimization in mobile, IoT, or vehicular network environments."
+  },
+  "query_96": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "Comparative analysis of digital twin implementations across different applications. Evaluation of simulation and modeling techniques for complex systems, including their strengths and limitations. Assessing the performance and applicability of various data processing pipelines or AI/ML frameworks in scientific or engineering contexts."
+  },
+  "query_97": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "robotic grasping methods overview"
+  },
+  "query_98": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How are large language models being integrated into robotic systems for high-level task planning and low-level control? What are the current approaches for grounding LLM-generated actions in physical environments and enabling real-time human-robot interaction through natural language feedback?"
+  },
+  "query_99": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "imitation learning autonomous driving challenges"
+  },
+  "query_100": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "how to implement consistency distillation for visuomotor policies in robotics"
+  },
+  "query_101": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "comparing learning-based and classical robot navigation"
+  },
+  "query_102": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "robot manipulation challenges with unknown objects in cluttered environments"
+  },
+  "query_103": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "visuomotor policy learning with receding horizon control and time-series diffusion transformer"
+  },
+  "query_104": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "novel deep learning architectures for multi-instrument music transcription or source separation"
+  },
+  "query_105": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "What are the fundamental concepts of acoustic fields and sound propagation in different environments? How do researchers model or simulate room acoustics and sound localization for various applications?"
+  },
+  "query_106": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the established methods and techniques for collecting, processing, and analyzing data from GitHub, Hugging Face, or Stack Overflow for empirical software engineering studies? I am interested in approaches for dataset creation, information extraction, and large-scale analysis of software repositories and developer activities on these platforms."
+  },
+  "query_107": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "challenges in software engineering methods"
+  },
+  "query_108": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "software quality assurance methods"
+  },
+  "query_109": {
+    "settings": {
+      "query_type": "Specific methodologies/techniques",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the key challenges in measuring and mitigating political polarization and misinformation spread on social media platforms like Twitter, Facebook, and Reddit? I am particularly interested in studies that analyze the structural and algorithmic factors contributing to echo chambers, hate speech, and the amplification of divisive content across different user demographics and political leanings."
+  },
+  "query_110": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Few words",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "computational hardness average-case complexity"
+  },
+  "query_111": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "speculative type confusion compiler mitigation"
+  },
+  "query_112": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Multi-sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "What are the practical limitations of applying perceptual hashing-based client-side scanning for content moderation in end-to-end encrypted systems, particularly concerning the robustness against adversarial perturbations? I am looking for papers that detail specific attack methodologies or defense mechanisms that fail under real-world image transformations or diverse perturbation strategies."
+  },
+  "query_113": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "LLM adversarial attack robustness evaluation"
+  },
+  "query_114": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Multi-sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the current limitations and open problems regarding achieving optimal amortized communication complexity for Byzantine atomic broadcast protocols in asynchronous networks with resilience $f < n/3$? Specifically, I am interested in protocols that do not rely on trusted setups or threshold cryptography, and their performance under varying message delay bounds or specific adversary models like delayed-adaptive adversaries."
+  },
+  "query_115": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "Challenges in analyzing graph parameters, structural properties, and computational complexity of graph problems."
+  },
+  "query_116": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "unsolved challenges in differentially private graph algorithms for dynamic settings"
+  },
+  "query_117": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "online Bayesian persuasion algorithms"
+  },
+  "query_118": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "practical challenges implementing AI-powered educational tools or teacher control over AI systems"
+  },
+  "query_119": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "channel aging impact on distributed precoding in cell-free massive MIMO with radio stripes"
+  },
+  "query_120": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "Comparative analysis of reconfigurable intelligent surface architectures and their performance implications"
+  },
+  "query_121": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "comparing machine learning techniques for proof automation in interactive theorem provers"
+  },
+  "query_122": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "What are the current limitations and unsolved challenges in mitigating hardware noise and error floor issues when applying quantum annealing to large-scale MIMO detection or vector perturbation precoding? Specifically, how do these factors impact the achievable bit error rate and computational time on existing quantum annealers like the D-Wave 2000Q for systems beyond 6x6 or 16x16 configurations?"
+  },
+  "query_123": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "Comparative analysis of CXL memory pooling versus non-exclusive tiering for datacenter resource optimization"
+  },
+  "query_124": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "real-time model predictive trajectory planning"
+  },
+  "query_125": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "compare action distribution modeling: diffusion process versus energy-based implicit behavioral cloning"
+  },
+  "query_126": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "What are the challenges and solutions for integrating differentiable motion prediction with learnable cost functions in real-time autonomous vehicle planning? I am particularly interested in approaches that jointly optimize these modules to improve closed-loop performance and handle complex urban scenarios."
+  },
+  "query_127": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "Comparative analysis of neural network architectures for efficient audio processing"
+  },
+  "query_128": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "comparing few-shot, in-context, and unsupervised LLM methods for log parsing"
+  },
+  "query_129": {
+    "settings": {
+      "query_type": "Highly technical terminology",
+      "length": "Multi-sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "Comparative analysis of LLM-based program repair efficacy on QuixBugs versus SWE-bench Lite, specifically examining the impact of iterative refinement strategies and execution-based validation metrics. I'm interested in studies detailing the trade-offs between patch diversity and exact match accuracy across different model architectures and prompting techniques."
+  },
+  "query_130": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Few words",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "All-Edges Sparse Triangle omega=2"
+  },
+  "query_131": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "deep learning Android malware detection implementation"
+  },
+  "query_132": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "What are the capabilities and limitations of large language models for general software vulnerability detection? I am looking for foundational papers that discuss their effectiveness across different programming languages and vulnerability types, as well as common challenges in real-world implementation."
+  },
+  "query_133": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Few words",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "Internet of Things implementation challenges"
+  },
+  "query_134": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How to implement efficient memory offloading for large deep learning models on commodity GPU servers with limited VRAM? What are the specific techniques for minimizing CPU-GPU data movement and optimizing communication overhead in heterogeneous distributed training environments, especially when dealing with trillion-parameter models or preemptible instances?"
+  },
+  "query_135": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "foundational papers on gap-preserving reductions and amplification in combinatorial reconfiguration"
+  },
+  "query_136": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "neuromorphic hardware architectures for in-memory computing and on-chip learning"
+  },
+  "query_137": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Few words",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "neural networks for auction design"
+  },
+  "query_138": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Gap to identify",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "foundational theories and principles of human-computer interaction and user interface design"
+  },
+  "query_139": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "foundational principles of federated learning in wireless communication networks"
+  },
+  "query_140": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "foundational concepts and different approaches to information-theoretic privacy and data leakage"
+  },
+  "query_141": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "scalability limitations in formal verification tools for hybrid systems"
+  },
+  "query_142": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "What are the fundamental methods and architectural principles for resource management in edge computing systems? I am looking for introductory papers that explain how computation offloading and task scheduling are handled in distributed edge environments."
+  },
+  "query_143": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "systematic analysis of challenges in performance evaluation and benchmarking"
+  },
+  "query_144": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "CVAE human behavior prediction robot"
+  },
+  "query_145": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "robust odometry for autonomous robots in challenging environments with sensor fusion"
+  },
+  "query_146": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "What are the fundamental principles and challenges in robotic manipulation involving physical contact with objects or the environment? I am interested in foundational work on modeling, planning, and control strategies for contact-rich tasks, including both prehensile and non-prehensile interactions. How do different approaches address the complexities of friction, impact, and compliance in robotic systems?"
+  },
+  "query_147": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "fundamental methods for integrating audio and natural language in machine learning"
+  },
+  "query_148": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "foundational software engineering approaches for artificial intelligence systems"
+  },
+  "query_149": {
+    "settings": {
+      "query_type": "Major concepts/theories",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How can automated tools improve software quality and security in large-scale development? What are the practical challenges and solutions for integrating static analysis, program repair, and dependency management into continuous integration pipelines? I am looking for foundational approaches to reduce vulnerabilities and improve code integrity."
+  },
+  "query_150": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How to apply lifting theorems for analyzing communication complexity of composed functions?"
+  },
+  "query_151": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How to compare different coupled simulation frameworks for multi-physics problems?"
+  },
+  "query_152": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "What are the recommended parameter settings for DAG-based BFT mempool protocols like Narwhal concerning worker distribution and message batching to optimize throughput under varying network latency conditions? Specifically, how do different configurations of validator sharding and transaction dissemination strategies impact the trade-off between latency and transaction per second in asynchronous BFT systems?"
+  },
+  "query_153": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "how to detect NFT wash trading"
+  },
+  "query_154": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How to design and implement scalable, fault-tolerant distributed ledger systems? What are the practical considerations for achieving high throughput and low latency in blockchain or distributed consensus architectures, including sharding and off-chain solutions?"
+  },
+  "query_155": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How to implement robust physical layer security mechanisms in wireless communication systems? What are the practical considerations for deploying anti-jamming strategies and secure authentication protocols across diverse wireless network architectures?"
+  },
+  "query_156": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "What are the recommended hyperparameter settings and data poisoning ratios for implementing dynamic or sample-specific backdoor attacks on deep neural networks? I need practical guidance on configuring the trigger generation network, including loss functions and optimization strategies, to ensure stealthiness and high attack success rates across various image datasets like CIFAR-10 or CelebA."
+  },
+  "query_157": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "How to systematically analyze and mitigate implementation challenges in trusted execution environments?"
+  },
+  "query_158": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How to implement responsible AI principles into organizational practices and development workflows?"
+  },
+  "query_159": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How to implement efficient data processing and query optimization in large-scale systems?"
+  },
+  "query_160": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "how to make scientific workflows portable and reusable across different computing environments"
+  },
+  "query_161": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "implement dual-quantization for GPU data dependency"
+  },
+  "query_162": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How to implement a distributed certification scheme for bounded treewidth graphs using $O(\\log^2 n)$ bit certificates, specifically comparing the single-round communication approach for MSO properties with the three-interaction dMAM protocol for planar graphs? I'm looking for detailed procedural steps on adapting the verification process for different interaction models while maintaining certificate size constraints."
+  },
+  "query_163": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How to implement dynamic trace estimation for real-time graph analysis applications?"
+  },
+  "query_164": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How to implement generalized mean densest subgraph peeling algorithms for large-scale graphs?"
+  },
+  "query_165": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "implementing memristor-based higher-order Hopfield solvers"
+  },
+  "query_166": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "How to implement and apply automata theory and game theory in formal verification?"
+  },
+  "query_167": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How to implement neural blend shapes for realistic character animation rigging?"
+  },
+  "query_168": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "When simulating public goods games on directed networks, how can I practically determine the existence of pure Nash equilibria, especially given the NP-hardness for certain configurations? What specific algorithmic approaches or parameters should I consider for finding mixed Nash equilibria, or for distributed equilibrium seeking in time-varying network structures?"
+  },
+  "query_169": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How to implement semantic snapping for multi-view visualization alignment with dynamic conflict resolution?"
+  },
+  "query_170": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "evaluating virtual reality comparisons"
+  },
+  "query_171": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "how to automatically detect dark patterns in mobile apps using computer vision"
+  },
+  "query_172": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "digital twin implementation wireless networks"
+  },
+  "query_173": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "how to implement near-field beam training for XL-MIMO with reduced overhead"
+  },
+  "query_174": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Literature review"
+    },
+    "search_query": "how to implement deep learning for wireless communication system design and optimization"
+  },
+  "query_175": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How to implement and compare single vs. double intelligent reflecting surface (IRS) deployments for practical wireless communication systems? What are the key considerations for channel estimation and hardware impairment mitigation when deploying cooperative double-IRS systems compared to single-IRS setups?"
+  },
+  "query_176": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How to implement joint radar and communication systems for shared spectrum and hardware?"
+  },
+  "query_177": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "how to implement hyperproperty verification"
+  },
+  "query_178": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How to integrate audio and visual data for robust multimodal machine learning applications?"
+  },
+  "query_179": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "How to optimize membrane leak and firing threshold parameters in deep SNNs?"
+  },
+  "query_180": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How to implement scalable detection of IoT devices using sampled network flow data?"
+  },
+  "query_181": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "how to fine-tune generative diffusion models for network traffic generation"
+  },
+  "query_182": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "how to apply deep learning wireless communication"
+  },
+  "query_183": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "How to mechanize soundness proofs for effectful type systems in Agda or Coq?"
+  },
+  "query_184": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "implement quadrotor trajectory planning dynamic environments"
+  },
+  "query_185": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Starting research"
+    },
+    "search_query": "How do I implement data augmentation or error detection mechanisms to improve robot policy learning from a small number of human demonstrations? What are the practical steps for setting up a system to refine policies using human-in-the-loop interventions, especially for tasks with precise bottleneck regions?"
+  },
+  "query_186": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Literature review"
+    },
+    "search_query": "How to implement real-time constrained motion planning for robotic manipulators? I am looking for practical guidance on integrating various constraint types, such as kinematic, dynamic, and obstacle avoidance, into a robust planning framework."
+  },
+  "query_187": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Literature review"
+    },
+    "search_query": "how to implement Lipschitz constraint as gradient penalty in humanoid locomotion policies"
+  },
+  "query_188": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How to implement large language models for robot task planning and control in embodied systems?"
+  },
+  "query_189": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "implement robust multi-sensor fusion for SLAM"
+  },
+  "query_190": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "estimate depth measurement uncertainty active stereo"
+  },
+  "query_191": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Very specific",
+      "research_stage": "Implementation focused"
+    },
+    "search_query": "how to implement differentiable force closure estimation for multi-fingered grasp synthesis"
+  },
+  "query_192": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "implementing robust control barrier functions with learned uncertainty bounds"
+  },
+  "query_193": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "how to implement basic speech separation techniques for beginners"
+  },
+  "query_194": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Focused",
+      "research_stage": "Starting research"
+    },
+    "search_query": "How can I get started with generating melodies using deep learning models? I'm looking for practical tutorials or guides on implementing basic melody generation systems, perhaps with a focus on controlling elements like rhythm or harmony."
+  },
+  "query_195": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Comparison to make",
+      "specificity_level": "Broad",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How to systematically evaluate and compare different code generation models? What are the best practices for setting up benchmarks and assessing performance across various programming tasks and contexts?"
+  },
+  "query_196": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Focused",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "how to implement code smell detection"
+  },
+  "query_197": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Few words",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Broad",
+      "research_stage": "Starting research"
+    },
+    "search_query": "how to adapt pre-trained code models"
+  },
+  "query_198": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Problem to solve",
+      "specificity_level": "Very specific",
+      "research_stage": "Seeking comparisons"
+    },
+    "search_query": "How to implement personalized model tuning for toxicity classification algorithms like Perspective API? What specific data features or architectural modifications are required to adapt a general toxicity model to individual user perspectives and improve accuracy for diverse demographics?"
+  },
+  "query_199": {
+    "settings": {
+      "query_type": "How To",
+      "length": "Multi-sentence",
+      "problem_framing": "Technique to learn",
+      "specificity_level": "Very specific",
+      "research_stage": "Looking for gaps"
+    },
+    "search_query": "How to implement the FirmCore decomposition for multilayer networks, specifically addressing the polynomial time algorithm for directed graphs and its application to densest subgraph approximation? What are the practical considerations for handling sparsity and computational efficiency in large-scale datasets?"
+  }
+}
