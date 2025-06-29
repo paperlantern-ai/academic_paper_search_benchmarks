@@ -123,10 +123,6 @@ Each test set is a JSON object with query keys - each pointing to a search query
 ```
 
 ## 🤖 LLM-Based Evaluation Methodology
-<div style="background: #e8f5e8; padding: 15px; border-left: 4px solid #4caf50; margin: 20px 0;">
-  <strong>🧑‍🔬 Expert-Level Assessment:</strong> Our evaluation replicates how expert researchers actually judge paper relevance - understanding research intent, semantic relationships, and domain-specific context.
-</div>
-
 There is no existing approach for reliably evaluating the quality of academic paper search. Hence, we created an easy-to-use **Query-Paper Relevance Score** that combines:  
 **🧠 Semantic Understanding** - Focuses on research intent and conceptual alignment, not keyword overlap  
 **🔍 Relationship Directionality** - Distinguishes subject vs object roles ("A influences B" ≠ "B influences A")  
