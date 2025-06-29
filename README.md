@@ -12,6 +12,8 @@ The test search queries are distributed across many categories to enable fine-gr
 fields, query type, query lengths, problem framing, specificity level and reseach stage (see below for details).-->
 
 ## 📊 Test Sets
+> also available as Huggingface Datasets - [https://huggingface.co/paperlantern](https://huggingface.co/paperlantern)
+
 ### List of Test Sets
 1. [`test_sets/computer_science_ai_search_queries.json`](https://github.com/paperlantern-ai/academic_paper_search_benchmarks/blob/main/test_sets/computer_science_ai_search_queries.json)
 
@@ -192,6 +194,6 @@ We welcome contributions to improve this research resource! Please:
 Apache 2.0
 
 ---
-**🏮 Paper Lantern AI**: [https://paperlantern.ai/](https://paperlantern.ai/)  
-**🔗 Dataset**: [https://huggingface.co/paperlantern](https://huggingface.co/paperlantern)  
+**🏮 Paper Lantern**: [https://paperlantern.ai/](https://paperlantern.ai/)  
+**🔗 Huggingface Datasets**: [https://huggingface.co/paperlantern](https://huggingface.co/paperlantern)  
 **📧 Contact**: contact@paperlantern.ai
