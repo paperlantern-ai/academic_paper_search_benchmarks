@@ -160,7 +160,7 @@ thinking_budget: 0  # Summary statement provides sufficient reasoning
 ```json
 {
   "paper_query_relevance": {
-    "relevanceScore": 80,
+    "relevanceScore": 84,
     "confidenceLevel": 9,
     "summaryStatement": "Paper's central focus on transformer attention mechanisms directly relates to query about long sequence implementation."
   }
